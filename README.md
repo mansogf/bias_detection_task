@@ -21,5 +21,3 @@ The data folder contains three files
 - Predict the labels for articles in bias_articles_test.json using the model trained above. 
 - Document the code and follow [Google python coding conventions](https://google.github.io/styleguide/pyguide.html)
 - Document the results of your model (train performance vs test performance) in Results.md markdown file.
-- Fork this repository and implement the solution and make a pull request.
-- If you have any question keep in touch with Vinay Setty (first name at factiverse.no).
